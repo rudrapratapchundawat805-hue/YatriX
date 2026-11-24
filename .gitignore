@@ -1,0 +1,23 @@
+# Java compiled files
+*.class
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Logs and history
+*.log
+search_history.txt
+
+# Configuration and credentials
+.env
+config.properties
+
+# Build directories
+out/
+target/
+build/
+
+# Operating system files
+.DS_Store
+Thumbs.db
